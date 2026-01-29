@@ -1,5 +1,4 @@
 # Customer_-Data-_Cleaning
-Customer Data Cleaning, Summary &amp; Reporting
 Project Overview
 
 This project demonstrates my ability to clean, organise, and analyse customer data using Google Sheets, as well as communicate findings in a professional manner.
