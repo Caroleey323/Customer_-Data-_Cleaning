@@ -2,6 +2,7 @@ Project Overview
 
 This project demonstrates my ability to clean, organise, and analyse customer data using Google Sheets, as well as communicate findings in a professional manner.
 
+
 Tasks Performed
 
 Cleaned raw customer data by removing extra spaces and correcting inconsistent formatting
@@ -16,9 +17,11 @@ Created a clear summary of findings based on the data
 
 Prepared a professional email to report results and recommendations
 
+
 Tools Used
 
 Google Sheets
+
 
 Outcome
 
